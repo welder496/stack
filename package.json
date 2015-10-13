@@ -1,0 +1,29 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "stack library for mongoDB searchs in notasPJEViewer",
+  "main": "stackrest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welder496/stack.git"
+  },
+  "keywords": [
+    "stack",
+    "mongoDB",
+    "restler",
+    "push",
+    "pop"
+  ],
+  "author": "Welder Mauricio de Souza <welder496@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welder496/stack/issues"
+  },
+  "homepage": "https://github.com/welder496/stack#readme",
+  "dependencies": {
+    "restler": "^3.4.0"
+  }
+}
